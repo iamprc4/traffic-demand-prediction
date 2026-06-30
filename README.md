@@ -245,7 +245,7 @@ R² Score
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flipkart-gridlock-traffic-demand-prediction.git
+git clone https://github.com/yourusername/traffic-demand-prediction.git
 ```
 
 Install dependencies
